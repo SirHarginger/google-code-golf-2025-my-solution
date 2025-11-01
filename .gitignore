@@ -1,0 +1,27 @@
+﻿# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Python virtual environments
+env/
+venv/
+.venv/
+
+# Data / large files
+*.zip
+data/
+*.sqlite3
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
