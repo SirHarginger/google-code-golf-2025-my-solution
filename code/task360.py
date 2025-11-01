@@ -1,0 +1,1 @@
+p=lambda g:[[r[j]|r[8-j]if r[j]*r[8-j]<1 else r[j]for j in range(4)]for r in g]

@@ -1,0 +1,1 @@
+p=lambda f,M=max:(c:=[*map(M,zip(*f))])and[[2 if (m:=M(r))*y and x<1 else m|y for x,y in zip(r,c)]for r in f]
